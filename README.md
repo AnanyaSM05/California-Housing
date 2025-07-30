@@ -1,5 +1,6 @@
 # 🏡 California Housing Price Prediction Web App
 This is an interactive machine learning project built using Streamlit that predicts median house prices in California based on various neighborhood factors like income, population, housing age, and geographic location
+
 📌 Project Objective
 The goal of this project is to demonstrate how machine learning models can be used in real-world scenarios for predictive analysis. The application allows users to enter custom input parameters and instantly view predicted home values along with feature impact, live history, and visual explanations.
 

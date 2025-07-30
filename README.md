@@ -1,10 +1,14 @@
-# 🏡 California Housing Price Prediction Web App
+# 🏠 California Housing Price Estimator
 
-This is an interactive machine learning project built using Streamlit that predicts median house prices in California based on various neighborhood factors like income, population, housing age, and geographic location.
+This project is a user-friendly web app built with **Streamlit** that predicts the **median housing prices in California**. It leverages machine learning techniques and geographic data to deliver quick and insightful predictions based on various neighborhood characteristics.
+
+---
 
 **📌 Project Objective**
 
 The goal of this project is to demonstrate how machine learning models can be used in real-world scenarios for predictive analysis. The application allows users to enter custom input parameters and instantly view predicted home values along with feature impact, live history, and visual explanations.
+
+---
 
 **🔍 Key Features**
 
@@ -26,43 +30,40 @@ The goal of this project is to demonstrate how machine learning models can be us
 
  Built entirely using Streamlit, Python, and open-source libraries
 
-**🛠️ Tech Stack**
 
-Component	Technology
+---
 
-Language	Python 3.12+
+## 🧰 Tools & Technologies
 
-Web Framework	Streamlit
+| Category       | Tool/Library              |
+|----------------|---------------------------|
+| Programming    | Python 3.12+              |
+| Web Framework  | Streamlit                 |
+| ML Algorithm   | Random Forest (Scikit-learn) |
+| Model Handling | Joblib                    |
+| Visualization  | Plotly                    |
+| Mapping        | Streamlit's `st.map()`    |
+| Styling        | Embedded HTML & CSS       |
 
-ML Library	Scikit-learn
+---
 
-Model Storage	Joblib
+## 📂 Dataset Information
 
-Visualizations	Plotly
+- **Source**: `fetch_california_housing()` from `sklearn.datasets`  
+- **Included Features**:
+  - `MedInc` – Median income of households
+  - `HouseAge` – Average age of the houses
+  - `AveRooms` – Average number of rooms per house
+  - `AveBedrms` – Average number of bedrooms
+  - `Population` – Total population in the block
+  - `AveOccup` – Average number of occupants per household
+  - `Latitude`, `Longitude` – Geographic coordinates
 
-Mapping	Streamlit's st.map()
+---
 
-Styling	Custom HTML + CSS injected
+## 🚀 Getting Started
 
-**📚 Dataset Used**
-
-Source: fetch_california_housing() from sklearn.datasets
-
-**Features:**
-
-MedInc – Median income in block
-
-HouseAge – Median house age
-
-AveRooms – Average rooms per household
-
-AveBedrms – Average bedrooms
-
-Population – Total population in the block
-
-AveOccup – Average household occupancy
-
-Latitude and Longitude – Location info
+Follow these steps to set up and run the project locally:
 
 **How to Run**
 
@@ -80,6 +81,8 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
+---
+
 **📁File	Description**
 
 app.py	Streamlit app code
@@ -92,6 +95,8 @@ requirements.txt	Required libraries
 
 README.md	This project overview file
 
+---
+
 **🧠 Possible Enhancements**
 
 Add more ML models (e.g., Linear Regression, XGBoost)
@@ -102,6 +107,7 @@ Use real estate APIs for current listings
 
 Include data upload support for batch prediction
 
+---
 # Screenshots of web app
 
 <img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/07f00e23-8f4c-421d-b3eb-117ccb2b5353" />
@@ -118,11 +124,11 @@ Include data upload support for batch prediction
 
 
 
-
-
+---
 
 **👤 Author
 Ananya SM
 Final Year B.E. - Artificial Intelligence & Machine Learning
 This project was built as part of a learning initiative combining machine learning, web development, and data visualization.**
+
 

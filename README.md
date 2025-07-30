@@ -2,10 +2,10 @@
 
 This is an interactive machine learning project built using Streamlit that predicts median house prices in California based on various neighborhood factors like income, population, housing age, and geographic location.
 
-📌 Project Objective
+**📌 Project Objective**
 The goal of this project is to demonstrate how machine learning models can be used in real-world scenarios for predictive analysis. The application allows users to enter custom input parameters and instantly view predicted home values along with feature impact, live history, and visual explanations.
 
-🔍 Key Features
+**🔍 Key Features**
  Interactive Web Interface with sliders and tooltips for user-friendly input
 
  Real-Time Price Prediction using a trained Random Forest Regressor
@@ -24,20 +24,27 @@ The goal of this project is to demonstrate how machine learning models can be us
 
  Built entirely using Streamlit, Python, and open-source libraries
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 Component	Technology
+
 Language	Python 3.12+
+
 Web Framework	Streamlit
+
 ML Library	Scikit-learn
+
 Model Storage	Joblib
+
 Visualizations	Plotly
+
 Mapping	Streamlit's st.map()
+
 Styling	Custom HTML + CSS injected
 
-📚 Dataset Used
+**📚 Dataset Used**
 Source: fetch_california_housing() from sklearn.datasets
 
-Features:
+**Features:**
 
 MedInc – Median income in block
 
@@ -53,26 +60,30 @@ AveOccup – Average household occupancy
 
 Latitude and Longitude – Location info
 
-🚀 How to Run
-Clone the repo:
+**🚀 How to Run**
+**Clone the repo:**
 git clone https://github.com/your-username/california-housing-predictor.git
+
 cd california-housing-predictor
 
-Install dependencies:
+**Install dependencies:**
 pip install -r requirements.txt
 
-Run the app:
+**Run the app:**
 streamlit run app.py
 
-📁 Files in This Repo
-File	Description
+**📁File	Description**
 app.py	Streamlit app code
+
 model.pkl	Trained RandomForest model
+
 train_model.py	Script to train and save the model
+
 requirements.txt	Required libraries
+
 README.md	This project overview file
 
-🧠 Possible Enhancements
+**🧠 Possible Enhancements**
 Add more ML models (e.g., Linear Regression, XGBoost)
 
 Add SHAP-based explanation plots
@@ -81,7 +92,7 @@ Use real estate APIs for current listings
 
 Include data upload support for batch prediction
 
-
+# screenshots of web app
 
 <img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/431ecc9b-8531-4a90-ae2a-c3008019f5f8" />
 <img width="1920" height="1080" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/e3663e50-3d9d-4931-a346-14fc63e9ed08" />
@@ -90,10 +101,10 @@ Include data upload support for batch prediction
 <img width="1920" height="1080" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/a679282f-b9d6-4c28-834c-1a04a5b40711" />
 <img width="1920" height="1080" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/479975de-2b15-4466-b958-9c95d80b2aa5" />
 
-👤 Author
+**👤 Author
 Ananya SM
 Final Year B.E. - Artificial Intelligence & Machine Learning
-This project was built as part of a learning initiative combining machine learning, web development, and data visualization.
+This project was built as part of a learning initiative combining machine learning, web development, and data visualization.**
 
 
 

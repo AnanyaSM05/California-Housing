@@ -1,4 +1,4 @@
-# 🏠 California Housing Price Estimator
+# 🏠 California Housing Price Estimator web app
 
 This project is a user-friendly web app built with **Streamlit** that predicts the **median housing prices in California**. It leverages machine learning techniques and geographic data to deliver quick and insightful predictions based on various neighborhood characteristics.
 

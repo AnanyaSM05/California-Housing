@@ -5,23 +5,23 @@ This is an interactive machine learning project built using Streamlit that predi
 The goal of this project is to demonstrate how machine learning models can be used in real-world scenarios for predictive analysis. The application allows users to enter custom input parameters and instantly view predicted home values along with feature impact, live history, and visual explanations.
 
 🔍 Key Features
-✅ Interactive Web Interface with sliders and tooltips for user-friendly input
+ Interactive Web Interface with sliders and tooltips for user-friendly input
 
-🔮 Real-Time Price Prediction using a trained Random Forest Regressor
+ Real-Time Price Prediction using a trained Random Forest Regressor
 
-📊 Feature Importance Visualization using Plotly bar chart
+ Feature Importance Visualization using Plotly bar chart
 
-🗺️ Map Display based on latitude & longitude inputs
+ Map Display based on latitude & longitude inputs
 
-🧠 Live Prediction History using st.session_state
+ Live Prediction History using st.session_state
 
-🕒 Timestamped Predictions showing when each estimate was made
+ Timestamped Predictions showing when each estimate was made
 
-📁 Downloadable CSV Report of inputs and prediction result
+ Downloadable CSV Report of inputs and prediction result
 
-💡 Smart UI with emojis and conditional messages based on predicted value
+ Smart UI with emojis and conditional messages based on predicted value
 
-🎯 Built entirely using Streamlit, Python, and open-source libraries
+ Built entirely using Streamlit, Python, and open-source libraries
 
 🛠️ Tech Stack
 Component	Technology
@@ -54,24 +54,15 @@ Latitude and Longitude – Location info
 
 🚀 How to Run
 Clone the repo:
-
-bash
-Copy
-Edit
 git clone https://github.com/your-username/california-housing-predictor.git
 cd california-housing-predictor
+
 Install dependencies:
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
-Run the app:
 
-bash
-Copy
-Edit
+Run the app:
 streamlit run app.py
+
 📁 Files in This Repo
 File	Description
 app.py	Streamlit app code

@@ -62,6 +62,10 @@ README.md	This project overview file
 <img width="1920" height="1080" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/e3663e50-3d9d-4931-a346-14fc63e9ed08" />
 <img width="1920" height="1080" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/3c8b970b-f526-41cc-88fa-0e7813cbc826" />
 <img width="1920" height="1080" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/a5925d49-6b3f-40b5-94b1-735cfba31aa7" />
+<img width="1920" height="1080" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/a679282f-b9d6-4c28-834c-1a04a5b40711" />
+<img width="1920" height="1080" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/479975de-2b15-4466-b958-9c95d80b2aa5" />
+
+
 
 
 

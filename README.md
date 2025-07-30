@@ -105,11 +105,17 @@ Include data upload support for batch prediction
 # Screenshots of web app
 
 <img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/07f00e23-8f4c-421d-b3eb-117ccb2b5353" />
-<img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/276221fa-3978-4a43-95db-e64ae9f8a183" />
-<img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/816def99-b4b6-4832-affd-25843ed47fbf" />
-<img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/8d14e67a-4161-443d-9db8-3e97297bb2fe" />
-<img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/3d4e2c31-fb3b-44aa-b466-76bf984ecbce" />
-<img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/f5953b79-4237-4d20-8aca-e31fc646a627" />
+
+<img width="1920" height="1080" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/b2e81dae-723c-478e-b038-8e9c602197a7" />
+
+<img width="1920" height="1080" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/7c154e23-a260-4336-a7bd-6660d03b83a5" />
+
+<img width="1920" height="1080" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/b76a4445-737b-4ae8-b278-c6b09bdc8c2c" />
+
+<img width="1920" height="1080" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/e80a84b5-9ca0-494b-a14e-7891c3be0745" />
+
+<img width="1920" height="1080" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/200e8781-49b0-4266-bccf-8f85ff747016" />
+
 
 
 
